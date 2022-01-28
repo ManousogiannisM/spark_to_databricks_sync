@@ -3,7 +3,7 @@ print("Hello world")
 
 # COMMAND ----------
 
-from utilities import  draft_utility
+from shared.utilities import  draft_utility
 
 var = draft_utility()
 print(var)
