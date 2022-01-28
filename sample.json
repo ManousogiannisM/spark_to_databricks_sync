@@ -1,0 +1,4 @@
+{
+    "job_name": "spark to dataframe sync",
+    "schema": "sample_schema"
+}
